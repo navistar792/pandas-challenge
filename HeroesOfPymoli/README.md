@@ -38,3 +38,8 @@ This dataframe lists the top five items by total spend, sorted by item price
 ## Most Profitable Items
 This dataframe lists the top five items by total spend, sorted by total purchase value
 ![Image9](Resources\image9.jpg)
+
+## Three trends/observations:
+### The game is considerably more popular with men
+### Even the top spenders don't spend very much on purchases, and the item best sellers don't stand out dramatically from the pack, in terms of volume
+### The game is most popular with the 20-24 age group
